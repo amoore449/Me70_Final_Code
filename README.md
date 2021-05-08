@@ -8,3 +8,12 @@ Analysis and extrapolation of position, acceleration, jerk, and velocity data fo
 
 ### STOPLIGHT_getTimeMilliseconds.m
 Runs inside trials folder to correct time for the stoplight signal.
+
+# IMU Code
+## Adafruit_lsm6dsox_wifi-2021
+Gyroscophic and motion tracking data collection code for the Arduino MKR 1010 WIFI.
+
+## Jerk Calculation
+
+Script that scans the acceleration data in the range of the Stoplight time, selects the three biggest and 3 smallest points, and
+outputs those values and their total average. 
