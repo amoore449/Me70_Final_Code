@@ -2,7 +2,7 @@
 
 ## Image Post Processing Code
 
-Analysis and extrapolation of position, acceleration, jerk, and velocity data for each video trial using datapoints generated from FIJI motion tracking
+Analysis and extrapolation of position, acceleration, jerk, and velocity data for each video trial using datapoints generated from FIJI motion tracking.
 
 ## Stoplight Code
 
