@@ -1,4 +1,7 @@
-# Me70_Final_Code
+# Me70_Final_Code: Impact of Distraction on Obstacle Avoidance Behavior
+
+Team Lab 5B 
+Alanna Levitt, Allison Moore, Ananya Ram, Gabriel De Brito, Joshua Fitzgerald, Michael Feltis, Olif Hordofa, Olivia Tomassetti
 
 ## Image Post Processing Code
 
